@@ -264,11 +264,11 @@ ModelImporter:
     - boneName: Left_Shoulder_Joint_01
       humanName: LeftShoulder
       limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
+        min: {x: 0, y: -6, z: -5}
+        max: {x: 0, y: 6, z: 10}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 0
+        modified: 1
     - boneName: Right_Shoulder_Joint_01
       humanName: RightShoulder
       limit:
@@ -280,11 +280,11 @@ ModelImporter:
     - boneName: Left_Upper_Arm_Joint_01
       humanName: LeftUpperArm
       limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
+        min: {x: -30, y: -50, z: -20}
+        max: {x: 30, y: 50, z: 35}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 0
+        modified: 1
     - boneName: Right_Upper_Arm_Joint_01
       humanName: RightUpperArm
       limit:
